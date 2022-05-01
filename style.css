@@ -54,19 +54,19 @@ margin-top: 2%;
 #color a{
     color:#43a192;
 }
-#hea{
+#lead{
     color:#43a192; 
 }
 .agency span{
     color:#725d52;
 }
-.secon{
+.second{
     display: flex;
     padding:50px;
     
     
 }
-.fa-instagram{
+.fa-gram{
     background-color:#fbb931;
     margin-left:3%;
     margin-top:4%;
